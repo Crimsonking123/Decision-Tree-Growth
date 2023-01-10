@@ -1,0 +1,60 @@
+CRED_HIS
+ !--poor--AGE
+ !          !--youth--INCOME
+ !          !           !--low--HEALTH
+ !          !           !         !--normal--RACE
+ !          !           !         !            !--white--H
+ !          !           !         !            !--asian--H
+ !          !           !         !            !--black--L
+ !          !           !         !--poor--RACE
+ !          !           !                    !--white--L
+ !          !           !                    !--asian--H
+ !          !           !                    !--black--H
+ !          !           !--high--H
+ !          !--mid_age--HEALTH
+ !          !             !--normal--RACE
+ !          !             !            !--white--H
+ !          !             !            !--asian--INCOME
+ !          !             !            !           !--low--L
+ !          !             !            !--black--H
+ !          !             !--poor--RACE
+ !          !                        !--white--INCOME
+ !          !                        !           !--low--H
+ !          !                        !           !--high--L
+ !          !                        !--asian--H
+ !          !                        !--black--INCOME
+ !          !                                    !--low--L
+ !          !                                    !--high--H
+ !          !--senior--RACE
+ !                       !--white--HEALTH
+ !                       !           !--normal--INCOME
+ !                       !           !            !--low--H
+ !                       !           !--poor--H
+ !                       !--asian--HEALTH
+ !                       !           !--normal--INCOME
+ !                       !           !            !--low--L
+ !                       !           !--poor--L
+ !                       !--black--HEALTH
+ !                                   !--normal--H
+ !                                   !--poor--L
+ !--good--RACE
+            !--white--AGE
+            !           !--youth--HEALTH
+            !           !           !--normal--L
+            !           !           !--poor--INCOME
+            !           !                      !--high--L
+            !           !--mid_age--INCOME
+            !           !             !--low--L
+            !           !             !--high--HEALTH
+            !           !                        !--normal--H
+            !           !                        !--poor--L
+            !           !--senior--L
+            !--asian--L
+            !--black--AGE
+                        !--youth--L
+                        !--mid_age--L
+                        !--senior--HEALTH
+                                     !--normal--INCOME
+                                     !            !--low--L
+                                     !            !--high--L
+                                     !--poor--L
